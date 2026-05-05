@@ -20,7 +20,6 @@
 - 🔧 Resolved production OOM failures · engineered two-tier caching for sub-second reads
 - 🔁 Ship on **7-day sprint cycles** consistently
 - 🎓 B.Tech Information Technology · **NIT Kurukshetra** · CGPA: 9.07
-- 💡 500+ DSA problems solved · Top 1.2 percentile JEE Main 2020
 
 ---
 
