@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7C6AF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Tarun+Singh+Yadav+%F0%9F%91%8B;Software+Engineer+%40+ArmorCode+Inc.;Building+things+that+scale+%E2%9A%A1;70M%2B+records+processed+per+scan+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:7c6af7&height=220&section=header&text=Tarun%20Singh%20Yadav&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%2070M%2B%20records%20per%20scan&descSize=16&descAlignY=55&descColor=a0a0ff" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C6AF7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%E2%9A%A1+Building+systems+that+handle+millions;%F0%9F%94%A5+Kafka+%C2%B7+Redis+%C2%B7+Spring+Boot+%C2%B7+AWS+%C2%B7+K8s" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/tarunyadav148"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,176 +14,255 @@
 
 </div>
 
----
+<br/>
 
-## ⚡ Who Am I
+## `$ whoami`
 
-```java
-public class Tarun {
-    String role     = "Software Engineer @ ArmorCode Inc.";
-    String college  = "NIT Kurukshetra '24 · CGPA 9.07";
-    String focus    = "High-throughput backend systems · Distributed infra";
-
-    String[] superpowers = {
-        "Pipelines that chew 70M+ records per scan",
-        "Killed production OOM failures dead",
-        "Two-tier caching → sub-second reads at scale",
-        "7-day sprint cycles, shipped every single one"
-    };
+```js
+{
+  name:        "Tarun Singh Yadav",
+  role:        "Software Engineer @ ArmorCode Inc.",
+  education:   "NIT Kurukshetra '24 · CGPA 9.07",
+  focus:       "High-throughput backends · Distributed infrastructure",
+  
+  highlights: [
+    "Pipelines processing 70M+ records per scan",
+    "Eliminated production OOM failures",
+    "Two-tier caching → sub-second reads at scale",
+    "7-day sprint cycles, shipped every single one"
+  ]
 }
 ```
 
----
+<br/>
 
-## 🛠️ Tech Arsenal
+## `$ tech --stack`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</p>
+<div align="center">
+
+**Backend & Infra**
+
+<img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,aws,docker,kubernetes,postgres,mongodb&theme=dark" />
+
+**Frontend & Languages**
+
+<img src="https://skillicons.dev/icons?i=react,angular,nodejs,ts,python,cpp&theme=dark" />
+
+</div>
+
+<br/>
 
 ---
 
-## 🚀 Projects
+<br/>
+
+## `$ ls ~/projects`
+
+<br/>
+
+<div align="center">
+
+> ### 🏗️ Featured: Systems & Backend
+
+</div>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 [ChitChat](https://github.com/tarunyadav148/ChitChat)
-**Real-time full-stack chat app**
+<h3 align="center">⚡ <a href="https://github.com/tarunyadav148/jeduler">Jeduler</a></h3>
+<p align="center"><strong>Distributed Job Scheduler</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+</p>
 
-`React` `Node.js` `Socket.IO` `MongoDB` `Redux` `Docker`
+```
+┌─────────────────────────────────┐
+│  Scheduling Engine (Spring Boot)│
+│  ┌───────┐ ┌───────┐ ┌───────┐ │
+│  │ Redis │ │ Kafka │ │Postgre│ │
+│  │counter│ │topics │ │  SQL  │ │
+│  └───┬───┘ └───┬───┘ └───┬───┘ │
+│      └─────────┴─────────┘     │
+│      Concurrency Maximizer      │
+└─────────────────────────────────┘
+```
+
+- **Distributed scheduler** — event-driven engine
+- **Kafka** per-type topics → worker scaling & ordering
+- **Redis** atomic counters — sub-ms concurrency checks
+- **Redis TTL** heartbeat — auto-detect dead workers
+- Greedy fill algorithm — max slot utilization
+- Multi-dim limits: tenant × type × global
+- `docker-compose up` → full stack, zero config
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💬 <a href="https://github.com/tarunyadav148/ChitChat">ChitChat</a></h3>
+<p align="center"><strong>Real-time Chat Platform</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+```
+┌──────────────────────────────┐
+│  React UI (Discord-style)    │
+│         ↕ Socket.IO          │
+│  Node.js ←→ MongoDB          │
+│  • Rooms  • DMs  • Presence  │
+└──────────────────────────────┘
+```
 
 - Public rooms + private 1-on-1 DMs
-- Live online/offline presence
+- Live online/offline presence indicators
 - Fully containerized with Docker Compose
-- Dark Discord-style UI with glassmorphism
-
-</td>
-<td width="50%">
-
-### ✅ [TaskFlow](https://github.com/tarunyadav148/taskflow-tarunyadav)
-**Production-grade task management API**
-
-`Java` `Spring Boot` `Docker`
-
-- RESTful backend with full CRUD
-- Containerized — spins up with `docker compose up`
-- Clean layered architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌤️ [Weather App](https://github.com/tarunyadav148/weather)
-**Real-time weather with live city autocomplete**
-
-`Vanilla JS` `OpenWeatherMap API` `Spott RapidAPI`
-
-- Geolocation auto-detect
-- Animated SVG circular rings for humidity & UVI
-- Weather alerts + sunrise/sunset
-- Zero dependencies, zero build step
-
-</td>
-<td width="50%">
-
-### ✅ [Task Tracker](https://github.com/tarunyadav148/Task-Tracker)
-**Firebase-powered task manager with social login**
-
-`Angular` `Firebase` `TypeScript`
-
-- Google / Facebook / GitHub OAuth
-- Real-time sync via Firebase Realtime DB
-- Per-user task isolation
-- [🔗 Live Demo](https://tarunyadav148.github.io/Task-Tracker/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎩 [SortingHatBot](https://github.com/tarunyadav148/SortingHatBot)
-**Harry Potter Discord bot**
-
-`Python` `discord.py` `SQLite`
-
-- Sorts users into Hogwarts houses
-- Persistent house memory per Discord user
-- Rich embeds with house colors & crests
-- `$onmyhead` · `$myhouse` · `$pleasechange`
-
-</td>
-<td width="50%">
-
-### 🏆 [Contify](https://github.com/tarunyadav148/contify)
-**Codeforces contest reminder Discord bot**
-
-`Python` `discord.py` `Codeforces API`
-
-- Fetches all upcoming contests
-- Auto-sends reminders for contests within 3 days
-- Polls every hour in the background
-- `$contests` · `$tc` · `$sendhere`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ❌⭕ [Tic-Tac-Toe](https://github.com/tarunyadav148/Tic-Tac-Toe)
-**C++ terminal game with clean LLD design**
-
-`C++14` `OOP` `Makefile`
-
-- MVC architecture · Facade pattern
-- **O(1) win detection** — row/col/diagonal counters
-- Namespaced enums, full encapsulation
-- 7 LLD patterns documented
-
-</td>
-<td width="50%">
-
-### 📊 More on GitHub →
-**[github.com/tarunyadav148](https://github.com/tarunyadav148?tab=repositories)**
-
-Always building something new.
+- Dark glassmorphism UI
 
 </td>
 </tr>
 </table>
 
+<br/>
+
+<div align="center">
+
+> ### 🛠️ Apps & Tools
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">✅ <a href="https://github.com/tarunyadav148/taskflow-tarunyadav">TaskFlow</a></h3>
+<p align="center"><strong>Production-grade Task API</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+- RESTful backend with full CRUD
+- Containerized — `docker compose up`
+- Clean layered architecture
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌤️ <a href="https://github.com/tarunyadav148/weather">Weather App</a></h3>
+<p align="center"><strong>Live Weather + City Autocomplete</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenWeatherMap-E96E50?style=flat-square&logo=icloud&logoColor=white"/>
+</p>
+
+- Geolocation auto-detect
+- Animated SVG rings for humidity & UVI
+- Zero dependencies, zero build step
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">✅ <a href="https://github.com/tarunyadav148/Task-Tracker">Task Tracker</a></h3>
+<p align="center"><strong>Firebase Task Manager + Social Login</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+</p>
+
+- Google / Facebook / GitHub OAuth
+- Real-time sync via Firebase
+- [🔗 Live Demo](https://tarunyadav148.github.io/Task-Tracker/)
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">❌⭕ <a href="https://github.com/tarunyadav148/Tic-Tac-Toe">Tic-Tac-Toe</a></h3>
+<p align="center"><strong>C++ LLD Design Showcase</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/C++14-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square&logo=gnu&logoColor=white"/>
+</p>
+
+- MVC + Facade pattern
+- **O(1) win detection** via counters
+- 7 LLD patterns documented
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> ### 🤖 Fun Bots
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🎩 <a href="https://github.com/tarunyadav148/SortingHatBot">SortingHatBot</a></h3>
+<p align="center"><strong>Hogwarts Sorting Discord Bot</strong></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+</p>
+
+- Sorts users into Hogwarts houses
+- Persistent memory per user
+- Rich embeds with house crests
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 <a href="https://github.com/tarunyadav148?tab=repositories">More on GitHub →</a></h3>
+<p align="center"><strong>Always shipping something new.</strong></p>
+
+<br/>
+<p align="center">
+<img src="https://img.shields.io/github/followers/tarunyadav148?style=flat-square&color=7c6af7&label=Followers"/>
+<img src="https://img.shields.io/github/stars/tarunyadav148?style=flat-square&color=7c6af7&affiliations=OWNER&label=Stars"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarunyadav148&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunyadav148&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunyadav148&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tarunyadav148&color=7c6af7&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+```
+"Build things that scale. Fix things that break. Ship things that matter."
+```
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarunyadav148&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarunyadav148&color=7c6af7&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <br/><br/>
-  <i>"Build things that scale. Fix things that break. Ship things that matter."</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:7c6af7&height=120&section=footer" width="100%"/>
